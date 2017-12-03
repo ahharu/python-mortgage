@@ -1,0 +1,39 @@
+planned_mortgages:
+  -
+    name: test1
+    cost: 300000
+    set_up_cost: 999
+    conditioning: 9999
+    leftover: 9999
+    invoices_and_taxes: 1850
+    mortgage_percent: 80
+    interest_rate: 1.25
+    monthly_rent: 900
+    rental_months: 12
+    time_to_market_months: 4
+  -
+    cost: 250000
+    name: whatever
+    set_up_cost: 40000
+    leftover: 10000
+    conditioning: 30000
+    invoices_and_taxes: 2000
+    mortgage_percent: 80
+    interest_rate: 1.25
+    monthly_rent: 900
+    rental_months: 6
+    time_to_market_months: 4
+
+
+initial_savings: 9999
+monthly_net_salary: 9999
+vacancy_unemployment_roundup: 100
+savings_no_mortgage: 50
+
+mortgage_downpayment_percent: 20
+mortgage_savings_percent: 20
+
+rental_downpayment_percent: 30
+rental_savings_percent: 20
+
+recurring_monthly_costs: 999

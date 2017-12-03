@@ -18,6 +18,20 @@ So then the project was born. Well, i lied, it was TWO projects, because as Team
 - **Python-mortgage** ( This one ) . Easy yaml-based input calculator for investing in real-estate. Simply configurable. Doesn't support overlapping mortgages, though it could be implemented. I skipped this since I don't recommend being that tied to the banks, but up to you folks! I go each year to Japan, so I thought getting some real estate both in Spain and Japan would be an awesome idea! 
 - **Investment-Forecaster** : Second project which will consist on a yaml-configurable investment forecaster, modular ( you can select which bank products you activate ). Probably will use bs4 to get past fund data.
 
+# TL;DR . How do I run this?
+
+  - Install the requirements
+  ```
+  pip install -r requirements.txt
+  ```
+ - Fill in the inputs.yml to your likings..
+ - Fire it up! If you want to read from a different file not named inputs.yml , append it to the call
+ ```
+ python mortgage.py <filename>
+ ```
+  
+
 # I want to help!
 
   - You are free to fork, copy, redistribute or adapt this code. It was created to help people take decisions with all the information possible, and not make forced, emotional ones
+

@@ -7,6 +7,8 @@
   
   The investment plan consisted in several BUZZWORDS , omitted the drawbacks of any investment, and failed to provide insights on investment break-even point, commisions, funds past overlook...
   
+#### Past rentabilities don't assure the future, remember!
+  
   The bank wanted me to sign the investment plan right away. When I refused and told them I would do a program to visualize and project the data they had gave to me, the answer was 
   
   > Why are you wasting your time on this? Do you want to refute us when you have no economics knowledge? Do you refute your doctor?

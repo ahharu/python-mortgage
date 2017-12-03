@@ -11,7 +11,7 @@
   
   > Why are you wasting your time on this? Do you want to refute us when you have no economics knowledge? Do you refute your doctor?
 
-So then the project was born. It consists on two different projects:
+So then the project was born. Well, i lied, it was TWO projects, because as Team Rocket said, make it double:
 
 - **Python-mortgage** ( This one ) . Easy yaml-based input calculator for investing in real-estate. Simply configurable. Doesn't support overlapping mortgages, though it could be implemented. I skipped this since I don't recommend being that tied to the banks, but up to you folks!
 - **Investment-Forecaster** : Second project which will consist on a yaml-configurable investment forecaster, modular ( you can select which bank products you activate ). Probably will use bs4 to get past fund data.
